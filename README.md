@@ -1,7 +1,7 @@
-# The Longest Path Problem in a Grid
+#  Parallel Computation of Longest Path Problem in a Grid
 
 
-## Problem Statement 
+### Problem Statement 
    Find a longest path between any two given vertices in a Grid
 
 

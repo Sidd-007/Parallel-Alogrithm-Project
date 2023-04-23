@@ -1,12 +1,6 @@
 #  Parallel Computation of Longest Path Problem in a Grid
 
 
-### Problem Statement
-
-```
-   Find a longest path between any two given vertices in a Grid
-```
-
 * Implementation of finding the longest path between any two vertices in a grid using OpenMP for parallel computation. 
 * The code uses OpenMP constructs to parallelize the process of searching for the longest path, thereby reducing the overall computation time. 
 * The program takes as input a grid containing **only 1s or 1s and 0s**, where 1 represents a free cell that can be traversed, and 0 represents an obstacle. 
